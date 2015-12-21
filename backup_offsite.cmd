@@ -5,3 +5,6 @@ robocopy "F:\Users\C.J\Box Sync" "h:\Box Sync" /MIR /FFT /Z /XA:H /W:5 /MT:32 /X
 robocopy "j:\Software" "h:\Software" /MIR /FFT /Z /XA:H /W:5 /MT:32 /XJ
 robocopy "G:\Software" "J:\WorkSoftware" /MIR /FFT /Z /XA:H /W:5 /MT:32 /XJ
 robocopy "G:\swabackups" "J:\swabackups" /MIR /FFT /Z /XA:H /W:5 /MT:32 /XJ
+robocopy "G:\OutLookStorage" "J:\SWAOutLookStorage" /MIR /FFT /Z /XA:H /W:5 /MT:32 /XJ
+robocopy "G:\envShortCuts" "J:\SWAenvShortCuts" /MIR /FFT /Z /XA:H /W:5 /MT:32 /XJ
+
